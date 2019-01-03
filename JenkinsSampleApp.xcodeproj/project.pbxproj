@@ -97,7 +97,7 @@
 		AC58C6A521DCE2E0004A72A4 /* JenkinsSampleApp */ = {
 			isa = PBXGroup;
 			children = (
-				AC58C6D521DE6917004A72A4 /* build */,
+				AC58C6D621DE6A1B004A72A4 /* build */,
 				AC58C6A621DCE2E0004A72A4 /* AppDelegate.swift */,
 				AC58C6A821DCE2E0004A72A4 /* ViewController.swift */,
 				AC58C6AA21DCE2E0004A72A4 /* Main.storyboard */,
@@ -126,12 +126,12 @@
 			path = JenkinsSampleAppUITests;
 			sourceTree = "<group>";
 		};
-		AC58C6D521DE6917004A72A4 /* build */ = {
+		AC58C6D621DE6A1B004A72A4 /* build */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = build;
-			sourceTree = SOURCE_ROOT;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
